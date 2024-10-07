@@ -22,3 +22,9 @@ This project is a Minesweeper game with different AI agents that play the game a
 3. The **MyAI** class implements the logic for the custom agent, which uses strategies to uncover tiles and flag mines based on the game state
 
 # How to Run
+
+## Command-line Usage
+```bash
+./Minesweeper [Options] [InputFile] [OutputFile]
+```
+Options
